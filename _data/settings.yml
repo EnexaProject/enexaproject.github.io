@@ -51,8 +51,8 @@ footer__image: /images/enexacontent/EUFundedlogo-h.png
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "github", link: "https://facebook.com"}
+- {icon: "twitter", link: "https://twitter.com/enexa_eu"}
+- {icon: "github", link: "https://github.com/EnexaProject"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
