@@ -9,8 +9,10 @@
             <div class="col col-4 col-d-12">
               <div class="widget-footer widget-info">
                 <h3 class="widget-info__title">{{site.data.settings.title}}</h3>
-                <p class="widget-info__desc">{{site.data.settings.footer__description}}</p>
-
+                <p class="widget-info__desc">{{site.data.settings.footer__description}}
+                </p>
+                
+                
                 {% if site.data.settings.social %}
                 <div class="social">
                   <ul class="social__list list-reset">
@@ -21,9 +23,15 @@
                     </li>
                     {% endfor %}
                   </ul>
-                </div>
+                </div> 
                 {% endif %}
     
+              </div>
+            </div>
+            <div class="col col-6 col-d-12">
+              <div class="widget-footer widget-info">
+              <h3 class="widget-info__title">&nbsp;</h3>
+              <img class="widget-info__desc" src="{{ site.baseurl }}{{ site.data.settings.footer__image }}">
               </div>
             </div>
     

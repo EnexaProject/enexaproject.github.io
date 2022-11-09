@@ -46,8 +46,8 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description:  Efficient Explainable Learning on Knowledge Graphs (101070305) is a Horizon Europe project funded by the European Commission.
-
+footer__description:  Efficient Explainable Learning on Knowledge Graphs is a <a href="https://cordis.europa.eu/project/id/101070305">Horizon Europe project</a> funded by the European Union.
+footer__image: /images/enexacontent/EUFundedlogo-h.png
 
 # Social Links
 social:
