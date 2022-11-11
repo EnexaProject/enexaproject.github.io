@@ -2,7 +2,6 @@
 username: datev
 name: DATEV
 longname: DATEV
-image: '/images/enexacontent/datevlogo.jpg'
 cover:
 location: Nuremberg, DE
 website: 'https://www.datev.com'
