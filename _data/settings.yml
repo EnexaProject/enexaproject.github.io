@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'News'
+      url: '/news'
     - title: 'Team'
       url: '/team/'
     - title: 'Research'
