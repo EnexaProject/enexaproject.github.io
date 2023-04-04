@@ -5,7 +5,7 @@ description: Efficient Explainable Learning on Knowledge Graphs (ENEXA) is a Eur
 permalink: /about/
 ---
 
-ENEXA is a [Horizon Europe Project (101070305)](https://doi.org/10.3030/101070305) funded by the European Union.
+ENEXA is a [Horizon Europe Project (101070305)](https://doi.org/10.3030/101070305) funded by the European Union. More details on funding and organization can be found in our [project fact sheet](../factsheet/).
 
 
 Human-centred, transparent and explainable AIs are key to achieving a human-centred and ethical development of digital and  industrial solutions. ENEXA builds upon novel and promising results in knowledge representation and machine learning to develop scalable, transparent, and explainable hybrid machine learning algorithms that combine symbolic and sub-symbolic learning. The project focuses on knowledge graphs with rich semantics as knowledge representation mechanism because of their increasing popularity across domains and industries in Europe. 
