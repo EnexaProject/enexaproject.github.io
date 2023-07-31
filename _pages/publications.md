@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-
+* [Online Event Recognition over Noisy Data Streams](https://doi.org/10.1016/j.ijar.2023.108993). P. Mantenoglou, A. Artikis, and G. Palioura. International Journal of Approximate Reasoning, Elsevier.
 * Quantitative Reasoning and Structural Complexity for Claim-Centric Argumentation. Johannes K. Fichte, Markus Hecher, Arne Meier, and Yasir Mahmood. IJCAI 2023
 * Neuro-Symbolic Class Expression Learning. Caglar Demir, Axel-Cyrille Ngonga Ngomo. IJCAI 2023
 * Parameterized Complexity of Propositional Inclusion and Independence Logic. Yasir Mahmood and Jonni Virtema. WoLLIC 2023
