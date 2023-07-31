@@ -26,6 +26,8 @@ menu__settings:
         title: 'About'
       - url: '/factsheet/'
         title: 'Fact Sheet'
+      - url: '/publications/'
+        title: Publications
       - url: '/privacy/'
         title: 'Privacy'
       - url: '/contact/'
