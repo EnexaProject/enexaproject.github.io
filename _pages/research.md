@@ -5,6 +5,10 @@ permalink: /research/
 image: '/images/enexacontent/enexa-overview.png'
 ---
 
+__Check out [all our recent publictions](../publications/)__.
+
+## Overview
+
 Knowledge graphs (KGs) are a flexible knowledge representation paradigm intended to facilitate the processing of knowledge for both humans and machines at Web scale. They are widely regarded as a key enabler for a number of increasingly popular technologies , including Web search, question answering, personal assistants, and (explainable) AI across most sectors including finance, Industry 4.0, personalised medicine, legislation, economics and more.
 
 However, current AI and especially machine learning (ML) approaches for KGs (e.g., class expression learning (CEL), inductive logic programming (ILP), graph neural networks, graph convolutional networks, graph attention networks, etc.) 
@@ -19,3 +23,4 @@ The core objective of ENEXA is to address the challenge of developing explainabl
 To tackle this objective, the project takes advantage of the strengths of the various representations of knowledge graphs, which we term the representation trichotomy. 
 
 ![trichotomy](/images/enexacontent/kg-trichotomy-table.png)
+
