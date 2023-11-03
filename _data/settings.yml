@@ -20,6 +20,8 @@ menu__settings:
       url: '/research/'
     - title: 'Use Cases'
       url: '/usecases/'
+    - title: 'Code'
+      url: 'https://github.com/EnexaProject'
     - title: 'More'
       submenu:
       - url: '/about/'
