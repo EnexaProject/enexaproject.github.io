@@ -6,6 +6,9 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* Oct 30 - 31, 2023: Fantastic pleneary meeting at SATCEN talking about the next iteration of our demo platform. 
+* Oct 27, 2023: Talk on [Neuro-Symbolic Class Expression Learning](https://ischool.illinois.edu/news-events/events/2023/10/27/knowledge-graphs-and-semantic-computing-speaker-series-axel-cyrille) Learning at UIUC by Axel
+* Sept 29, 2023: [Knowledge (Graphs) in the Language Model Era](https://ischool.illinois.edu/news-events/events/2023/09/29/knowledge-graphs-and-semantic-computing-speaker-series-paul-groth) at the UIUC seminar on knowledge graphs by Paul
 * August 19 - 25, 2023: We'll be presenting at [IJCAI 2023](https://ijcai-23.org/) with two main track papers.
 * July 19-20, 2023: [ENEXA Hackathon in Amsterdam](https://twitter.com/enexa_eu/status/1682058719020843010) combining modules across partners. 
 * June 1, 2023: ENEXA was happy to be at [ESWC 2023](https://2023.eswc-conferences.org/project-networking/) with both work being presented and connecting with other EU projects. 
