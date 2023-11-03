@@ -57,6 +57,7 @@ footer__image: /images/enexacontent/EUFundedlogo-h.png
 
 # Social Links
 social:
+- {icon: "linkedin", link: "https://www.linkedin.com/company/enexa-eu-project/"}
 - {icon: "twitter", link: "https://twitter.com/enexa_eu"}
 - {icon: "github", link: "https://github.com/EnexaProject"}
 
