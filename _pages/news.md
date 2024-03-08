@@ -6,6 +6,7 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* March 8, 2024: We have a new page collecting [videos of our talks](https://enexa.eu/talks/.
 * Feb 23, 2024: We presented at the [AI on Demand](https://www.ai4europe.eu) technical contributors board meeting.
 * Oct 30 - 31, 2023: Fantastic pleneary meeting at SATCEN talking about the next iteration of our demo platform. 
 * Oct 27, 2023: Talk on [Neuro-Symbolic Class Expression Learning](https://ischool.illinois.edu/news-events/events/2023/10/27/knowledge-graphs-and-semantic-computing-speaker-series-axel-cyrille) Learning at UIUC by Axel
