@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-permalink: /Talks/
+permalink: /talks/
 ---
 
 Check out talks and webinars discussing ENEXA technology:
