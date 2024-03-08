@@ -2,12 +2,16 @@
 layout: page
 title: Research
 permalink: /research/
-image: '/images/enexacontent/enexa-overview.png'
+#image: '/images/enexacontent/enexa-overview.png'
 ---
 
-__Check out [all our recent publictions](../publications/)__.
+For the latest research outputs of the project check out our:
+* [Research Publications](../publications/)
+* [Talks](../talks)
+
 
 ## Overview
+![overview](/images/enexacontent/enexa-overview.png)
 
 Knowledge graphs (KGs) are a flexible knowledge representation paradigm intended to facilitate the processing of knowledge for both humans and machines at Web scale. They are widely regarded as a key enabler for a number of increasingly popular technologies , including Web search, question answering, personal assistants, and (explainable) AI across most sectors including finance, Industry 4.0, personalised medicine, legislation, economics and more.
 
