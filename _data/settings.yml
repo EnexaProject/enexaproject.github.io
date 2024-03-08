@@ -30,6 +30,8 @@ menu__settings:
         title: 'Fact Sheet'
       - url: '/publications/'
         title: Publications
+      - url: '/talks/'
+        title: Talks
       - url: '/privacy/'
         title: 'Privacy'
       - url: '/contact/'
