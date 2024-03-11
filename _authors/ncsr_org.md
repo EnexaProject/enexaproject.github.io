@@ -9,4 +9,4 @@ website: 'https://www.demokritos.gr/institute/institute-of-informatics-telecommu
 layout: organization
 ---
 
-NCSR is the largest self-governing research organization in Greece. The Institute of Informatics and Telecommunications of NCSR Demokritos focuses on research and development in the areas of Telecommunications, Networks, Web Technologies and AI.
+NCSR is the largest self-governing research organization in Greece. The Institute of Informatics and Telecommunications of NCSR Demokritos focuses on research and development in the areas of Telecommunications, Networks, Web Technologies, and AI.
