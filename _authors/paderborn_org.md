@@ -9,4 +9,4 @@ website: 'https://dice-research.org'
 layout: organization
 ---
 
-ENEXA is led by the DICE group at Paderborn University. The group is dedicated to research at the interfaces between humans, machines and data. 
+ENEXA is led by the DICE group at Paderborn University. The group is dedicated to research at the interfaces between humans, machines, and data. 
