@@ -9,4 +9,4 @@ website: 'https://www.datev.com'
 layout: organization
 ---
 
-DATEV offers software for accounting, personnel management, business consulting, tax compuation, company organization and many other business tasks. It has more than 540,000 customers.
+DATEV offers software for accounting, personnel management, business consulting, tax computation, company organization, and many other business tasks. It has more than 585,000 customers.
