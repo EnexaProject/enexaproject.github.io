@@ -9,4 +9,4 @@ website: 'https://www.satcen.europa.eu'
 layout: organization
 ---
 
-The European Union Agency supporting the EU in the field of Common Foreign and Security Policy by analysing data from space based assets.
+The European Union Agency supports the EU in the field of Common Foreign and Security Policy by analyzing data from space-based assets.
