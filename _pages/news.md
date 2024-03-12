@@ -6,6 +6,7 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* March 12, 2024: Check out our [Month 18 Newsletter](https://preview.mailerlite.io/preview/202883/emails/115518099363465015) update. 
 * March 8, 2024: We have a new page collecting [videos of our talks](https://enexa.eu/talks/).
 * Feb 23, 2024: We presented at the [AI on Demand](https://www.ai4europe.eu) technical contributors board meeting.
 * Oct 30 - 31, 2023: Fantastic pleneary meeting at SATCEN talking about the next iteration of our demo platform. 
