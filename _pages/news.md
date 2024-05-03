@@ -6,6 +6,8 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* May 3, 2024: With the Trustworth AI Cluster we are organizing a webinar May 29 on Trustworthy AI: Landscaping verifiable robustness and transparency. You can find more [information and registration link here](https://evenflow-project.eu/news/webinar-trustworthy-ai-cluster-adrae-evenflow/).
+* May 2, 2024: A recording of our talk at the AIoD technolical contributors board meeting is now available on our [talks](](https://enexa.eu/talks/)) page.
 * March 12, 2024: Check out our [Month 18 Newsletter](https://preview.mailerlite.io/preview/202883/emails/115518099363465015) update. 
 * March 8, 2024: We have a new page collecting [videos of our talks](https://enexa.eu/talks/).
 * Feb 23, 2024: We presented at the [AI on Demand](https://www.ai4europe.eu) technical contributors board meeting.
