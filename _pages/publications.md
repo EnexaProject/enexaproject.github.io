@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+* Evaluating Negation with Multi-way Joins Accelerates Class Expression Learning. Nikolaos Karalis, Alexander Bigerl, Caglar Demir, Liss Heidrich, and Axel-Cyrille Ngonga Ngomo. In ECMl PKDD 2024.
 * [Computing Repairs Under Functional and Inclusion Dependencies via Argumentation](https://doi.org/10.1007/978-3-031-56940-1_2). Yasir Mahmood, Jonni Virtema, Timon Barlag, and Axel-Cyrille Ngonga Ngomo. In Foundations of Information and Knowledge Systems. FoIKS 2024. Lecture Notes in Computer Science, vol 14589. Springer, Cham, 2024.
 * [Efficient Evaluation of Conjunctive Regular Path Queries Using Multi-way Joins](https://doi.org/10.1007/978-3-031-60626-7_12). Nikolaos Karalis, Alexander Bigerl, Liss Heidrich, Mohamed Ahmed Sherif, and Axel-Cyrille Ngonga Ngomo. In The Semantic Web. ESWC 2024. Lecture Notes in Computer Science, vol 14664. Springer, Cham, 2024.
-* [Evaluating Negation with Multi-way Joins Accelerates Class Expression Learning](https://papers.dice-research.org/2024/ESWC_C2RPQs/public.pdf). Nikolaos Karalis, Alexander Bigerl, Caglar Demir, Liss Heidrich, and Axel-Cyrille Ngonga Ngomo. In ECMl PKDD 2024.
 * [Universal Knowledge Graph Embeddings](https://doi.org/10.1145/3589335.3651978) N’Dah Jean Kouago, Caglar Demir, Hamada M. Zahera, Adrian Wilke, Stefan Heindorf, Jiayi Li, Axel-Cyrille Ngonga Ngomo. In WWW '24: Companion Proceedings of the ACM on Web Conference 2024.
 * [NELLIE: Never-Ending Linking for Linked Open Data](https://ieeexplore.ieee.org/document/10198447). Abdullah Fathi Ahmed, Mohamed Ahmed Sherif, and Axel-Cyrille Ngonga Ngomo. In IEEE Access, 2023.
 * [Knowledge Engineering Using Large Language Models.](https://doi.org/10.4230/TGDK.1.1.3). Bradley P. Allen, Lise Stork, and Paul Groth.  In Special Issue on Trends in Graph Data and Knowledge. Transactions on Graph Data and Knowledge (TGDK), Volume 1, Issue 1, pp. 3:1-3:19, Schloss Dagstuhl
