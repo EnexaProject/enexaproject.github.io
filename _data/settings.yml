@@ -32,6 +32,8 @@ menu__settings:
         title: Publications
       - url: '/talks/'
         title: Talks
+      - url: '/documentation/'
+        title: Platform Docs
       - url: '/privacy/'
         title: 'Privacy'
       - url: '/contact/'
