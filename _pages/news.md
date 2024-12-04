@@ -6,6 +6,12 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* December 2, 2024: Our [libraries](https://www.linkedin.com/posts/enexa-eu-project_dicee-download-stats-activity-7269288474409635840-9jOL) for embeddings, OWL, and learning ontologies have surpassed the 50k downloads mark!
+* November 27, 2024: We were happy to be well represented at the [EKAW conference](https://www.linkedin.com/posts/enexa-eu-project_were-happy-to-be-ekaw-international-conference-activity-7267472305637752834-YPfy).
+* November 11, 2024: Check out our [fall 2024 update newsletter](https://preview.mailerlite.io/preview/202883/emails/137802932829553920).
+* October 21, 2024: Two papers are out on entity linking that is robust to temporal change at [CIKM](https://doi.org/10.1145/3627673.3679702) and [ECAI](https://ebooks.iospress.nl/volumearticle/70028).
+* September 26, 2024: We had a successful [consortium meeting](https://www.linkedin.com/feed/update/urn:li:activity:7244968835202568192) in Vienna.
+* June 5, 2024: Axel was on the [AI Digest podcast](https://www.youtube.com/watch?v=5g9oXhGB8vA&t=18s) talking AI explainability. 
 * June 2, 2024: We were part of the Project Networking Session at ESWC 2024 and Paul gave a keynote at the Text2KG workshop talking about ENEXA. Check out his [trip report](https://thinklinks.wordpress.com/2024/06/02/trip-report-eswc-2024/). 
 * May 3, 2024: With the Trustworth AI Cluster we are organizing a webinar May 29 on Trustworthy AI: Landscaping verifiable robustness and transparency. You can find more [information and registration link here](https://evenflow-project.eu/news/webinar-trustworthy-ai-cluster-adrae-evenflow/).
 * May 2, 2024: A recording of our talk at the AIoD technolical contributors board meeting is now available on our [talks](https://enexa.eu/talks/) page.
