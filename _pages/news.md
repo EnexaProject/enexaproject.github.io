@@ -6,11 +6,14 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* February 27, 2025: We are at AAAI this week presenting ["Dung's Argumentation Framework: Unveiling the Expressive Power with Inconsistent Databases"](https://arxiv.org/abs/2412.11617v1) by Yasir Mahmood, Markus Hecher and Axel Ngonga.
+* January 26, 2025: Paul was at the Dagstuhl Seminar on [Trust and Accountability in Knowledge Graph-Based AI for Self Determination](https://www.dagstuhl.de/25051) discussing trustworthy AI and explanations. 
 * December 2, 2024: Our [libraries](https://www.linkedin.com/posts/enexa-eu-project_dicee-download-stats-activity-7269288474409635840-9jOL) for embeddings, OWL, and learning ontologies have surpassed the 50k downloads mark!
 * November 27, 2024: We were happy to be well represented at the [EKAW conference](https://www.linkedin.com/posts/enexa-eu-project_were-happy-to-be-ekaw-international-conference-activity-7267472305637752834-YPfy).
 * November 11, 2024: Check out our [fall 2024 update newsletter](https://preview.mailerlite.io/preview/202883/emails/137802932829553920).
 * October 21, 2024: Two papers are out on entity linking that is robust to temporal change at [CIKM](https://doi.org/10.1145/3627673.3679702) and [ECAI](https://ebooks.iospress.nl/volumearticle/70028).
 * September 26, 2024: We had a successful [consortium meeting](https://www.linkedin.com/feed/update/urn:li:activity:7244968835202568192) in Vienna.
+* June 9-15,2024. We were tutors at the [International Semantic Web Research Summer School](https://2024.semanticwebschool.org)
 * June 5, 2024: Axel was on the [AI Digest podcast](https://www.youtube.com/watch?v=5g9oXhGB8vA&t=18s) talking AI explainability. 
 * June 2, 2024: We were part of the Project Networking Session at ESWC 2024 and Paul gave a keynote at the Text2KG workshop talking about ENEXA. Check out his [trip report](https://thinklinks.wordpress.com/2024/06/02/trip-report-eswc-2024/). 
 * May 3, 2024: With the Trustworth AI Cluster we are organizing a webinar May 29 on Trustworthy AI: Landscaping verifiable robustness and transparency. You can find more [information and registration link here](https://evenflow-project.eu/news/webinar-trustworthy-ai-cluster-adrae-evenflow/).
@@ -22,7 +25,7 @@ Member of the media? Checkout our [press kit](/presskit/).
 * Oct 27, 2023: Talk on [Neuro-Symbolic Class Expression Learning](https://ischool.illinois.edu/news-events/events/2023/10/27/knowledge-graphs-and-semantic-computing-speaker-series-axel-cyrille) Learning at UIUC by Axel
 * Sept 29, 2023: [Knowledge (Graphs) in the Language Model Era](https://ischool.illinois.edu/news-events/events/2023/09/29/knowledge-graphs-and-semantic-computing-speaker-series-paul-groth) at the UIUC seminar on knowledge graphs by Paul
 * August 19 - 25, 2023: We'll be presenting at [IJCAI 2023](https://ijcai-23.org/) with two main track papers.
-* July 19-20, 2023: [ENEXA Hackathon in Amsterdam](https://twitter.com/enexa_eu/status/1682058719020843010) combining modules across partners. 
+* July 19-20, 2023: [ENEXA Hackathon in Amsterdam](https://twitter.com/enexa_eu/status/1682058719020843010) combining modules across partners.
 * June 1, 2023: ENEXA was happy to be at [ESWC 2023](https://2023.eswc-conferences.org/project-networking/) with both work being presented and connecting with other EU projects. 
 * April 24, 2023: Talking [knowledge graphs](https://twitter.com/clarify_project/status/1650426857844621312) to the students from the [EU ITN CLARIFY](http://www.clarify-project.eu) project on digital pathology at their third training school.
 * April 4-5, 2023: We had a great [plenary meeting](https://www.linkedin.com/feed/update/urn:li:share:7049763758289604608/) in Athens - focused on how we're pulling our research together for a first demo in the fall. 
