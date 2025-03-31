@@ -4,6 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
+* Parameterized complexity of weighted team definability. Juha Kontinen, Yasir Mahmood, Arne Meier, Heribert Vollmer. In Mathematical Structures in Computer Science, 2024;34(5):375-389.
+* Dung's Argumentation Framework: Unveiling the  Expressive
+Power with Inconsistent Databases. Yasir Mahmood, Markus Hecher and Axel-Cyrille Ngonga Ngomo. In AAAI-2025, The 39th Annual AAAI Conference on Artificial
+Intelligence.
+* [Quantitative Claim-Centric Reasoning in Logic-Based Argumentation](https://www.ijcai.org/proceedings/2024/377). Markus Hecher, Yasir Mahmood, Arne Meier, Johannes Schmidt. In IJCAI 2024, Proceedings of the Thirty-Third International
+Joint Conference on Artificial Intelligence 2024.
+* [Rejection in Abstract Argumentation: Harder Than Acceptance?](https://ebooks.iospress.nl/doi/10.3233/FAIA240867). Johannes Klaus Fichte, Markus Hecher, Yasir Mahmood and Arne
+Meier. In ECAI-2024, 27th European Conference on Artificial
+Intelligence 2024.
 * Evaluating Negation with Multi-way Joins Accelerates Class Expression Learning. Nikolaos Karalis, Alexander Bigerl, Caglar Demir, Liss Heidrich, and Axel-Cyrille Ngonga Ngomo. In ECMl PKDD 2024.
 * [Computing Repairs Under Functional and Inclusion Dependencies via Argumentation](https://doi.org/10.1007/978-3-031-56940-1_2). Yasir Mahmood, Jonni Virtema, Timon Barlag, and Axel-Cyrille Ngonga Ngomo. In Foundations of Information and Knowledge Systems. FoIKS 2024. Lecture Notes in Computer Science, vol 14589. Springer, Cham, 2024.
 * [Efficient Evaluation of Conjunctive Regular Path Queries Using Multi-way Joins](https://doi.org/10.1007/978-3-031-60626-7_12). Nikolaos Karalis, Alexander Bigerl, Liss Heidrich, Mohamed Ahmed Sherif, and Axel-Cyrille Ngonga Ngomo. In The Semantic Web. ESWC 2024. Lecture Notes in Computer Science, vol 14664. Springer, Cham, 2024.
