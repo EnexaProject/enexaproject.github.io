@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-* Parameterized complexity of weighted team definability. Juha Kontinen, Yasir Mahmood, Arne Meier, Heribert Vollmer. In Mathematical Structures in Computer Science, 2024;34(5):375-389.
 * Dung's Argumentation Framework: Unveiling the  Expressive
 Power with Inconsistent Databases. Yasir Mahmood, Markus Hecher and Axel-Cyrille Ngonga Ngomo. In AAAI-2025, The 39th Annual AAAI Conference on Artificial
 Intelligence.
+* Parameterized complexity of weighted team definability. Juha Kontinen, Yasir Mahmood, Arne Meier, Heribert Vollmer. In Mathematical Structures in Computer Science, 2024;34(5):375-389.
 * [Quantitative Claim-Centric Reasoning in Logic-Based Argumentation](https://www.ijcai.org/proceedings/2024/377). Markus Hecher, Yasir Mahmood, Arne Meier, Johannes Schmidt. In IJCAI 2024, Proceedings of the Thirty-Third International
 Joint Conference on Artificial Intelligence 2024.
 * [Rejection in Abstract Argumentation: Harder Than Acceptance?](https://ebooks.iospress.nl/doi/10.3233/FAIA240867). Johannes Klaus Fichte, Markus Hecher, Yasir Mahmood and Arne
