@@ -4,8 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-* Dung's Argumentation Framework: Unveiling the  Expressive
-Power with Inconsistent Databases. Yasir Mahmood, Markus Hecher and Axel-Cyrille Ngonga Ngomo. In AAAI-2025, The 39th Annual AAAI Conference on Artificial
+* [Facets in Argumentation: A Formal Approach to Argument Significance](https://arxiv.org/pdf/2505.10982?). Johannes Fichte, Nicolas Fröhlich, Markus Hecher, Victor Lagerkvist, Yasir Mahmood, Arne Meier, Jonathan Persson. In IJCAI 2025, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence 2025.
+* Dung's Argumentation Framework: Unveiling the Expressive Power with Inconsistent Databases. Yasir Mahmood, Markus Hecher and Axel-Cyrille Ngonga Ngomo. In AAAI-2025, The 39th Annual AAAI Conference on Artificial
 Intelligence.
 * Parameterized complexity of weighted team definability. Juha Kontinen, Yasir Mahmood, Arne Meier, Heribert Vollmer. In Mathematical Structures in Computer Science, 2024;34(5):375-389.
 * [Quantitative Claim-Centric Reasoning in Logic-Based Argumentation](https://www.ijcai.org/proceedings/2024/377). Markus Hecher, Yasir Mahmood, Arne Meier, Johannes Schmidt. In IJCAI 2024, Proceedings of the Thirty-Third International
