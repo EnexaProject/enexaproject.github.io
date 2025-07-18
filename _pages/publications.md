@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+* Artisanal and small-scale gold mining detection in the Amazon forest using contextual data. Selma Dissing, Jan-Christoph Kalo. In BiDS, 2025.
 * [Facets in Argumentation: A Formal Approach to Argument Significance](https://arxiv.org/pdf/2505.10982?). Johannes Fichte, Nicolas Fröhlich, Markus Hecher, Victor Lagerkvist, Yasir Mahmood, Arne Meier, Jonathan Persson. In IJCAI 2025, Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence 2025.
 * Dung's Argumentation Framework: Unveiling the Expressive Power with Inconsistent Databases. Yasir Mahmood, Markus Hecher and Axel-Cyrille Ngonga Ngomo. In AAAI-2025, The 39th Annual AAAI Conference on Artificial
 Intelligence.
