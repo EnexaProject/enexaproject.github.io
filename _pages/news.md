@@ -7,6 +7,7 @@ permalink: /news/
 Member of the media? Checkout our [press kit](/presskit/).
 
 * July 7, 2025: Check out the recap od #SIGMOD2025 by our project member Paul Groth. Read the [recap](https://thinklinks.wordpress.com/2025/07/04/trip-report-sigmod-2025/).
+* June 8, 2025: Check out the talks by ENEXA team members at the ESWC 2025. The videos are available on the [website](talks.md). 
 * June 8, 2025: Check out the [recap](https://thinklinks.wordpress.com/2025/06/08/trip-report-eswc-2025/) of #ESWC2025 by our project member Paul Groth where ENEXA presented a number of its outputs.
 * June 6, 2025: We are excited to announce that our work on "Designing Hierarchies for Optimal Hyperbolic Embedding" today at European Semantic Web Conference and excited to have been nominated for the best research track paper.
 * June 6, 2025: ENEXA team proudly presented three papers at ESWC 2025, showcasing advances in knowledge graph embeddings, robustness evaluation, and abstractive entity summarization using LLMs. Check our [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7336785410657783811) for more details. 
