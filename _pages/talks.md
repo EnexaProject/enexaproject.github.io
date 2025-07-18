@@ -10,6 +10,7 @@ Check out talks and webinars discussing ENEXA technology:
     <div class="gallery">
     
     
+    <a href="https://videolectures.net/videos/eswc2025_bernardin_fajar_firmansyah"><img src="/images/enexacontent/ANTS.png" loading="lazy"></a>
     <a href="https://mediaspace.illinois.edu/media/t/1_mcw01wa7"><img src="/images/enexacontent/cirssAxel2023.jpg" loading="lazy"></a>
     <a href="https://mediaspace.illinois.edu/media/t/1_0jzxu14t"><img src="/images/enexacontent/cirssPaul2023.jpg" loading="lazy"></a>
     <a href="https://youtu.be/EowfN9hL-zc?si=-KV6pbT9j0O-Ckro"><img src="/images/enexacontent/swcconAxel2023.jpg" loading="lazy"></a>
