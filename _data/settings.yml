@@ -25,9 +25,7 @@ menu__settings:
     - title: 'More'
       submenu:
       - url: '/about/'
-        title: 'About'
-      - url: '/documentation/'
-        title: 'Documentation'        
+        title: 'About'        
       - url: '/factsheet/'
         title: 'Fact Sheet'
       - url: '/publications/'
