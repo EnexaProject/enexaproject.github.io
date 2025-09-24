@@ -76,6 +76,8 @@ footer__menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Documentation'
+      url: '/documentation/'      
     - title: 'Contact'
       url: '/contact/'
     - title: 'Privacy Policy'
