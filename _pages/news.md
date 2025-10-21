@@ -6,6 +6,11 @@ permalink: /news/
 
 Member of the media? Checkout our [press kit](/presskit/).
 
+* September 22, 2025: 5 ENEXA papers will be presented at K-CAP 2025!
+* September 18, 2025: [Tentris v 1.5 released](https://www.linkedin.com/posts/dice-research_release-v150-dice-grouptentris-research-project-activity-7383834375949553664-9ZmZ) implementing new algorithms from the ENEXA project. 
+* September 15, 2025: ENEXA team members were at [ECML PKDD](https://www.linkedin.com/posts/dice-research_ecmlpkdd-ecmlpkdd2025-knowledgegraphs-activity-7375854566862508032-IDwZ) presenting their work on OWL class expressions over very large knowledge graphs (like DBpedia with 1.1 billion triples!) while handling missing data and provide globally explainable results)
+* September 1, 2025: We were happy to co-organize the [14th International Workshop on Quality in Databases (QDB’25)](https://qdb-workshop.github.io) at VLDB 2025.
+* September 9, 2025: We were at the NeSy 2025 conference presenting our paper on [Sound and Complete Neurosymbolic Reasoning with LLM-Grounded Interpretations](https://proceedings.mlr.press/v284/allen25a.html). This is a collaboration with RPI, USC, and VU Amsterdam.
 * July 7, 2025: Check out the recap od #SIGMOD2025 by our project member Paul Groth. Read the [recap](https://thinklinks.wordpress.com/2025/07/04/trip-report-sigmod-2025/).
 * June 8, 2025: Check out the talks by ENEXA team members at the ESWC 2025. The videos are available on the [website](/talks/). 
 * June 8, 2025: Check out the [recap](https://thinklinks.wordpress.com/2025/06/08/trip-report-eswc-2025/) of #ESWC2025 by our project member Paul Groth where ENEXA presented a number of its outputs.
