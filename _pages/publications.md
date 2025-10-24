@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### Journal Articles
 
-- **[Detecting and Fixing Inconsistencies in Large Knowledge Graphs*](https://doi.org/10.5281/zenodo.17182451)**  
+- **[Detecting and Fixing Inconsistencies in Large Knowledge Graphs](https://doi.org/10.5281/zenodo.17182451)**  
   Charilaos Akasiadis, Anastasios Nentidis, Angelos Charalambidis, Alexander Artikis  
   *The European Journal on Artificial Intelligence*  
 
