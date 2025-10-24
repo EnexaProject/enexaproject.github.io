@@ -64,7 +64,7 @@ permalink: /publications/
 
 - **[Efficient Evaluation of Conjunctive Regular Path Queries Using Multi-way Joins](https://doi.org/10.1007/978-3-031-60626-7_12)**  
   Nikolaos Karalis, Alexander Bigerl, Liss Heidrich, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo
-  *The Semantic Web. ESWC 2024
+  *The Semantic Web. ESWC 2024*
 
 - **[A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs](https://ceur-ws.org/Vol-3953/356.pdf)**  
   Bradley P. Allen, Paul Groth  
