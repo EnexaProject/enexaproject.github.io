@@ -60,7 +60,7 @@ permalink: /publications/
 
 - **[A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs](https://ceur-ws.org/Vol-3953/356.pdf)**  
   Bradley P. Allen, Paul Groth  
-  *n Proceedings of the Special Session on Harmonising Generative AI and Semantic Web Technologies (HGAIS 2024) 2024*  
+  *Proceedings of the Special Session on Harmonising Generative AI and Semantic Web Technologies (HGAIS 2024) 2024*  
 
 - **[A Tensor-Based Formalization of the Event Calculus](https://doi.org/10.24963/ijcai.2024/397)**  
   Efthimis Tsilionis, Alexander Artikis, and Georgios Paliouras  
