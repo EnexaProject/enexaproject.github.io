@@ -58,9 +58,13 @@ permalink: /publications/
 
 - **[Testing prompt engineering methods for knowledge extraction from text](https://doi.org/10.3233/SW-243719)**  
   Fina Polat, Ilaria Tiddi, Paul Groth  
-  *Semantic Web*  
+  *Semantic Web Journal*  
 
 ### Conference and Workshop Papers
+
+- **[Efficient Evaluation of Conjunctive Regular Path Queries Using Multi-way Joins](https://doi.org/10.1007/978-3-031-60626-7_12)**  
+  Nikolaos Karalis, Alexander Bigerl, Liss Heidrich, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo
+  *The Semantic Web. ESWC 2024
 
 - **[A Benchmark for the Detection of Metalinguistic Disagreements between LLMs and Knowledge Graphs](https://ceur-ws.org/Vol-3953/356.pdf)**  
   Bradley P. Allen, Paul Groth  
@@ -180,9 +184,6 @@ permalink: /publications/
 - **[ESLM: Improving Entity Summarization by Leveraging Language Models](https://doi.org/10.1007/978-3-031-60626-7_9)**  
   Asep Fajar Firmansyah, Diego Moussallem, Axel-Cyrille Ngonga Ngomo  
   *Lecture Notes in Computer Science, The Semantic Web*  
-
-- **[Efficient Evaluation of Conjunctive Regular Path Queries Using Multi-way Joins](https://doi.org/10.1007/978-3-031-60626-7_12)**  
-  Nikolaos Karalis, Alexander Bigerl, Liss Heidrich, Mohamed Ahmed Sherif, Axel-Cyrille Ngonga Ngomo  
 
 - **[Enhancing Relation Extraction Through Augmented Data: Large Language Models Unleashed](https://doi.org/10.1007/978-3-031-70242-6_7)**  
   Manzoor Ali, Muhammad Sohail Nisar, Muhammad Saleem, Diego Moussallem, Axel-Cyrille Ngonga Ngomo  
