@@ -24,6 +24,10 @@ permalink: /publications/
 
 ### Conference and Workshop Papers
 
+- **[Designing Hierarchies for Optimal Hyperbolic Embedding](https://doi.org/10.1007/978-3-031-94575-5_20)**  
+  Melika Ayoughi, Max van Spengler, Pascal Mettes, Paul Groth  
+  *Lecture Notes in Computer Science, The Semantic Web (ESWC 2025)*  
+
 - **[Artisanal and small-scale gold mining detection in the Amazon forest using contextual data](https://doi.org/10.2760/2119408)**  
   Selma Dissing, Jan-Christoph Kalo  
   *Proc. of the 2025 conference on Big Data from Space (BiDS'25)*  
@@ -168,10 +172,6 @@ permalink: /publications/
 
 - **[Computing Repairs Under Functional and Inclusion Dependencies via Argumentation](https://doi.org/10.1007/978-3-031-56940-1_2)**  
   Yasir Mahmood, Jonni Virtema, Timon Barlag, Axel-Cyrille Ngonga Ngomo  
-
-- **[Designing Hierarchies for Optimal Hyperbolic Embedding](https://doi.org/10.1007/978-3-031-94575-5_20)**  
-  Melika Ayoughi, Max van Spengler, Pascal Mettes, Paul Groth  
-  *Lecture Notes in Computer Science, The Semantic Web*  
 
 - **[Do Instruction-tuned Large Language Models Help with Relation Extraction?](https://ceur-ws.org/Vol-3577/paper15.pdf)**  
   Xue Li, Fina Polat, Paul Groth  
