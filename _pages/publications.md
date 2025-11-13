@@ -24,6 +24,30 @@ permalink: /publications/
 
 ### Conference and Workshop Papers
 
+- **[OWLAPY: A Pythonic Framework for OWL Ontology Engineering](https://arxiv.org/abs/2511.08232)**  
+  Alkid Baci, Luke Friedrichs, Caglar Demir, Axel-Cyrille Ngonga Ngomo  
+  *arXiv 2025*  
+
+- **[Parameter Averaging in Link Prediction](https://arxiv.org/abs/2510.25361)**  
+  Rupesh Sapkota, Caglar Demir, Arnab Sharma, Axel-Cyrille Ngonga Ngomo  
+  *Knowledge Capture Conference (K-CAP 2025)*  
+
+- **[Link Prediction Under Non-targeted Attacks: Do Soft Labels Always Help?](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_6)**  
+  Adel Memariani, Michael Röder, Arnab Sharma, Caglar Demir, Axel-Cyrille Ngonga Ngomo  
+  *International Semantic Web Conference (ISWC 2025)*  
+
+- **[GLIDE: Knowledge Graph Linking using Distance-Aware Embedding](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_9)**  
+  Alexander Becker, Axel-Cyrille Ngonga Ngomo, Mohamed Ahmed Sherif  
+  *International Semantic Web Conference (ISWC 2025)*  
+
+- **[Efficient Updates for Worst-Case Optimal Join Triple Stores](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_29)**  
+  Alexander Bigerl, Liss Heidrich, Nikolaos Karalis and Axel-Cyrille Ngonga Ngomo  
+  *International Semantic Web Conference (ISWC 2025)*  
+
+- **[Contextual Augmentation for Entity Linking using Large Language Models](https://zenodo.org/records/17404436)**  
+  Daniel Vollmers, Hamada M. Zahera, Diego Moussallem, Axel-Cyrille Ngonga Ngomo  
+  *International Conference on Computational Linguistics (COLING 2025)*  
+
 - **[Designing Hierarchies for Optimal Hyperbolic Embedding](https://doi.org/10.1007/978-3-031-94575-5_20)**  
   Melika Ayoughi, Max van Spengler, Pascal Mettes, Paul Groth  
   *Lecture Notes in Computer Science, The Semantic Web (ESWC 2025)*  
@@ -218,7 +242,7 @@ permalink: /publications/
 - **[Neural Class Expression Synthesis](https://doi.org/10.1007/978-3-031-33455-9_13)**  
   N’Dah Jean Kouagou, Stefan Heindorf, Caglar Demir, Axel-Cyrille Ngonga Ngomo  
 
-- **[Neural Class Expression Synthesis (Extended Abstract)](https://doi.org/urn:nbn:de:0074-3432-6)**  
+- **[Neural Class Expression Synthesis (Extended Abstract)](https://ceur-ws.org/Vol-3432/paper46.pdf)**  
   N'Dah Jean Kouagou, Stefan Heindorf, Caglar Demir, Axel-Cyrille Ngonga Ngomo  
 
 - **[Neural Class Expression Synthesis in ALCHIQ(D)](https://doi.org/10.1007/978-3-031-43421-1_12)**  
