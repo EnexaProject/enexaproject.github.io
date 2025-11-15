@@ -34,7 +34,7 @@ permalink: /publications/
 
 - **[Minimizing Hyperbolic Embedding Distortion with LLM-Guided Hierarchy Restructuring]()**
    Melika Ayoughi, Pascal Mettes and Paul Groth
-   *Knowledge Capture Conference (K-CAP 2025)*
+    *Knowledge Capture Conference (K-CAP 2025)*
 
 - **[Link Prediction Under Non-targeted Attacks: Do Soft Labels Always Help?](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_6)**  
   Adel Memariani, Michael Röder, Arnab Sharma, Caglar Demir, Axel-Cyrille Ngonga Ngomo  
